@@ -1,44 +1,52 @@
-Bachelor's degree in Computer Science, Engineering or equivalent;
-Minimum 2 years of Embedded Software Developer experience;
-Interest in the Connected Home space and wireless communication;
-Experience with Command Line based interfaces and tools;
-Experience with Embedded Linux development environments and practices;
-Experience with RTOS development environments and practices;
-Experience with embedded firmware development and associated platforms and frameworks;
-Experience in C/C++, Java and Python development;
-Experience with Serial interfaces (UART, SPI, I2C, etc.);
-Experience working with wireless communications modules;
-Excellent oral and written communication skills;
-Experience with ARM architecture-based processors and development tools is an asset;
-Experience with Buildroot and/or Yocto frameworks for embedded Linux development is an asset;
-Experience with microcontrollers and RTOS is an asst;
-Experience with ZigBee, Z-Wave, WiFi applications is an asset; 
+//===================
+
+// NEW
+//===================
 
 
-Bachelor’s degree in Computer/Electrical Engineering or Equivalent;
-0-2 years’ experience in Real-Time Embedded Software Development;
-Programming proficiency in embedded C and/or Assembler;
-Experience in using software development tools such as compilers, debuggers, real-time operating systems (RTOS), and logic analyzers;
-Excellent knowledge of data transmission/communication protocols (TCP/IP, Ethernet, ARINC 429, RS422, Canbus, USB, RS232, etc);
-Familiarity with scripting languages would be an asset (Python, Perl, XML);
-Excellent verbal and written communication skills. 
+Embedded System Engineer (Rail Group) Jan 2018 - XXX 20XX
 
-Millers Ingenuity
-Rail
 
-Single Board Computers
 
-Visual Studio, Eclipse (CDT, Java and others), IntelliJ IDEA, Simplicity Studio
+Embedded Firmware development on Eclipse (CDT/Java/Simplicity Studio), Visual Studio (Visual GDB), 
+
+Keil uVision workbenches
+
+Development experience in C and C++, Python and Bash scripting and Javascript for cloud 
+
+communications
+
+Excellent with communication protocols on embedded systems; UART/USART, SPI, I2C, PCM, I2C, RS232, 
+
+RS422, RS485, USB
+
+Worked with Energy Micro EFM32 microcontrollers (ARM-Cortex M3)
+ and many development boards
+Wrote low level Firmware code for ZigBee(Xbee) wireless communications modules and Bluetooth (+BLE) 
+
+audio and data
+
+Developed drivers for peripheral devices: EEPROMs, RTCs, LCDs, General GPIOs and real time sensors
+Worked through Command-Line based interfaces & tools on Windows and Linux environments daily
+
+Worked with embedded Linux development environments and practices on Single Board Computers (SBCs) & 
+
+Cross Compiler Toolchains
+Used a variety of compilers, debuggers, operating systems, logic analyzers, breadboards & 
+
+oscilloscopes
+
+Skilled at reading Datasheets for various microelectronic circuits, devices & components
+Took Pluralsight courses in using the Catch framework for C++ Unit Testing
+
+Github:
+
+Millers Ingenuity, MTA
 
 I2C, UART, USART, XBee, Bluetooth 4.0 BC127, audio I2S, USART, SPI, RS 232, RS 422, RS 485
 MAX3232CPE (MAXIM INTEGRATED)
 
-EFM32 ARM Cortex M3
-
-Github crashtan
-
-Java, C, C++, Python
-
-Catch testing framework
-
 Pluralsight C++ IQ (m-h-af)
+
+
+Experience with RTOS development environments and practices???
